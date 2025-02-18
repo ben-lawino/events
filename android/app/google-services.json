@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223274970378",
+    "project_id": "events-2bcab",
+    "storage_bucket": "events-2bcab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223274970378:android:f7360d86c49f1cd8321ef3",
+        "android_client_info": {
+          "package_name": "com.lawino.events"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3VTh31otvZlPIjorM60bYbwBrxFfwFWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
